@@ -1,0 +1,19 @@
+{
+    "author": "Matthew OGorman",
+    "name": "censorify",
+    "version": "0.1.0",
+    "description": "Censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ogormanm2/hello-world/"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
